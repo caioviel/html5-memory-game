@@ -1,0 +1,27 @@
+{
+  "name": "html5-memory-game",
+  "version": "0.0.0",
+  "homepage": "https://github.com/caioviel/html5-memory-game",
+  "authors": [
+    "caioviel <caioviel@gmail.com>"
+  ],
+  "description": "A javascript library to instance personalized memory games.",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  },
+   "install" : {
+        "path"  : {
+            "js": "js/",
+            "css": "css/"
+        }
+    }
+}
